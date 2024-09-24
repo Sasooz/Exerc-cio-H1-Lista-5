@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\StudySpace\\ExerciciosH1\\ExerciciosH1\\ExerciciosH1.csproj": {}
+    "D:\\StudySpace\\ExerciciosH1\\Exerc-cio-H1-Lista-5\\ExerciciosH1.csproj": {}
   },
   "projects": {
-    "D:\\StudySpace\\ExerciciosH1\\ExerciciosH1\\ExerciciosH1.csproj": {
+    "D:\\StudySpace\\ExerciciosH1\\Exerc-cio-H1-Lista-5\\ExerciciosH1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\StudySpace\\ExerciciosH1\\ExerciciosH1\\ExerciciosH1.csproj",
+        "projectUniqueName": "D:\\StudySpace\\ExerciciosH1\\Exerc-cio-H1-Lista-5\\ExerciciosH1.csproj",
         "projectName": "ExerciciosH1",
-        "projectPath": "D:\\StudySpace\\ExerciciosH1\\ExerciciosH1\\ExerciciosH1.csproj",
+        "projectPath": "D:\\StudySpace\\ExerciciosH1\\Exerc-cio-H1-Lista-5\\ExerciciosH1.csproj",
         "packagesPath": "C:\\Users\\savio.cardoso\\.nuget\\packages\\",
-        "outputPath": "D:\\StudySpace\\ExerciciosH1\\ExerciciosH1\\obj\\",
+        "outputPath": "D:\\StudySpace\\ExerciciosH1\\Exerc-cio-H1-Lista-5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\savio.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
